@@ -85,17 +85,17 @@ These pre-release game builds have a 'password' lock that stops you from the lea
 
 Huge thanks to Rich Talbot-Watkins for assisting with these!
 
-Run the game then type in the password then press the switch ( this unlocks the airlock doors )
+Run the game and type in the password, followed by (RETURN). Now you can activate the switch ( this unlocks the airlock doors )
 
 Disk Image	Password
 
 * EXILE1		f4-f5-f9-f4
 * EXILE2		N/A
-* EXILE3		207 <Return>
-* EXILE4		209 <Return>
-* EXILE5		208 <Return>
+* EXILE3		207 (RETURN)
+* EXILE4		209 (RETURN)
+* EXILE5		208 (RETURN)
 * EXILE6		
-* EXILE7		210 <Return>
+* EXILE7		210 (RETURN)
 * EXILE8	
 * EXILE9	
 
@@ -115,7 +115,7 @@ Thank you to the following people for making this archive possible:-
 
 * Peter J.M. Irvin and Jeremy C. Smith ( RIP ), the original authors of Exile.
 * Peter Irvin for giving his blessing to share these early builds. Sadly, he no longer has any of his original development disks.
-* The previous owner of these disks who passed them to me for arcvhiving / recovery.
+* The previous owner of these disks who passed them to me for archiving / recovery.
 * Rich Talbot-Watkins for working out many of the passwords!
 
 I hope you enjoy the archive!
